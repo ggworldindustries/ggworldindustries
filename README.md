@@ -1,16 +1,28 @@
-## Hi there 👋
+👨‍💻 Gideon Gachie
+🎓 Computer Science Enthusiast | 💡 Innovator | 🌍 Based in Nairobi, Kenya
 
-<!--
-**ggworldindustries/ggworldindustries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me**
+
+I'm Gideon Gachie, a passionate .NET Developer with expertise in C#, Blazor, MAUI, and Xamarin.Forms. As the co-founder of Africa Konnect and founder of AriyoTech, I thrive on turning ideas into reality and exploring the latest trends in technology.
+
+**Currently Exploring**
+
+I'm currently diving into the world of DevOps engineering, mastering the art of seamless development, deployment, and operations.
+
+**Projects**
+
+Africa Konnect: Co-founding a platform that bridges the gap in digital connectivity across Africa.
+
+AriyoTech: Leading innovations and creating user-friendly applications to solve real-world problems.
+
+**Skills**
+
+Languages: C#, HTML, CSS, JavaScript, TypeScript, Ruby, Java, Visual Basic
+
+Frameworks: .NET, Blazor, MAUI, Xamarin.Forms
+
+DevOps: CI/CD, Docker, Kubernetes, AWS, Azure
+
+Tools: Visual Studio, Git, GitHub
