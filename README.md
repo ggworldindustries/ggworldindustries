@@ -25,4 +25,4 @@ Frameworks: .NET, Blazor, MAUI, Xamarin.Forms
 
 DevOps: CI/CD, Docker, Kubernetes, AWS, Azure
 
-Tools: Visual Studio, Git, GitHub
+Tools: Visual Studio,  GitHub , Docker ,MSSQL 
