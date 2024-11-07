@@ -5,7 +5,7 @@
 
 **About Me**
 
-I'm Gideon Gachie, a passionate .NET Developer with expertise in C#, Blazor, MAUI, and Xamarin.Forms. As the co-founder of Africa Konnect and founder of AriyoTech, I thrive on turning ideas into reality and exploring the latest trends in technology.
+I'm Gideon Gachie, a passionate .NET Developer with expertise in C#, Blazor, MAUI, and Xamarin.Forms. As the co-founder of Africa Konnect and founder of AriyoTech, I thrive in turning ideas into reality and exploring the latest trends in technology.
 
 **Currently Exploring**
 
