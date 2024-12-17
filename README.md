@@ -11,7 +11,7 @@ I'm Gideon Gachie, a passionate .NET Developer with expertise in C#, Blazor, MAU
 
 I'm currently diving into the world of DevOps engineering, mastering the art of seamless development, deployment, and operations.
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ggworldindustries&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ggworldindustries)](https://git.io/streak-stats)
 
 **Projects**
 
